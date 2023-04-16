@@ -63,5 +63,5 @@
     left: 0;
     bottom: 0;
     display: inline-block;
-    border-left: 3px solid #ff5f5f;
+    border-left: 3px solid #ff5f5f !important;
 }
