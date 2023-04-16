@@ -1,0 +1,9 @@
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_Store
+node_modules
+.vscode
+stats.json
+public
