@@ -4775,3 +4775,6 @@ a:hover {
     text-overflow: ellipsis;
     width: 200px;
 }
+.nav-link .articleDirectory-overflow .active{
+    color: #ff5f5f !important;
+}
