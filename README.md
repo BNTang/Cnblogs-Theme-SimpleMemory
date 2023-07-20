@@ -27,9 +27,9 @@
 
 # Docs
 
-[Permanent Address](https://BNTang.github.io/Cnblogs-Theme/v2/#/) [Alternate Address](https://docs.wangyangyang.vip/docs/v2/#/)
+[永久地址](https://BNTang.github.io/Cnblogs-Theme/v2/#/) [备用地址](https://docs.wangyangyang.vip/docs/v2/#/)
 
-> -- 我们建议您使用最新版本，新版本的发布通常代表着功能改进和错误修复。
+> - 我们建议您使用最新版本，新版本的发布通常代表着功能改进和错误修复。
 > - 文档的源文件位于`/docs`目录中，任何对文档有更好建议或意见的人都可以通过`Pull Request`或`Issues`向我提交。
 > - 我已经禁用了浏览器缓存，但仍可能存在缓存，您可以尝试强制刷新（按下Ctrl + F5 / Command + Shift + R）来刷新页面。
 
@@ -43,4 +43,4 @@
 # contact
 
 - QQ：303158131
-- WX: BN_Tang
+- WX：BN_Tang
