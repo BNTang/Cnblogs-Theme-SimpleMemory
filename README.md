@@ -19,19 +19,19 @@
 
 # Silence
 
-📖 This theme takes reading as the core, beautifying the display of the blog garden and improving the user experience. 
+📖 本主题以阅读为核心，美化博客园的展示，提升用户体验. 
 
-🍰 Modification based on "SimpleMemory" of BoP; [Page Effect](https://www.cnblogs.com/BNTang)
+🍰 基于 "SimpleMemory" 的修改; [页面效果](https://www.cnblogs.com/BNTang)
 
-🧀 Support response, size respectively：(1200px,∞px)，(960px,1200px]，(720px,960px]，(0px,720px]
+🧀 支持响应, 分别是大小：(1200px,∞px)，(960px,1200px]，(720px,960px]，(0px,720px]
 
 # Docs
 
 [Permanent Address](https://BNTang.github.io/Cnblogs-Theme/v2/#/) [Alternate Address](https://docs.wangyangyang.vip/docs/v2/#/)
 
-> We recommend that you use the latest version, the release of a new version often represents the improvement of features and `bug` fixes
-> <br>The source files of the documentation are in the `/docs` directory, anyone with better documentation or suggestions can `Pull Request` or `Issues` to me
-> <br>I have disabled browser caching, but there may still be cache, you can try to force a refresh under(ctrl + f5 / command + shift + r)
+> -- 我们建议您使用最新版本，新版本的发布通常代表着功能改进和错误修复。
+> - 文档的源文件位于`/docs`目录中，任何对文档有更好建议或意见的人都可以通过`Pull Request`或`Issues`向我提交。
+> - 我已经禁用了浏览器缓存，但仍可能存在缓存，您可以尝试强制刷新（按下Ctrl + F5 / Command + Shift + R）来刷新页面。
 
 # Author
 
@@ -39,3 +39,8 @@
 
 > - Blog [@Blog](https://www.cnblogs.com/BNTang) · GitHub [@GitHub](https://github.com/BNTang/Cnblogs-Theme-SimpleMemory) · Email 303158131@qq.com
 > - **Cnblogs-Theme** from **Cnblogs-Theme-SimpleMemory** © [BNDong](https://github.com/BNDong)
+
+# contact
+
+- QQ：303158131
+- WX: BN_Tang

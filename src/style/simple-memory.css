@@ -4778,3 +4778,13 @@ a:hover {
 .nav-link .articleDirectory-overflow .active{
     color: #ff5f5f !important;
 }
+
+/*chore(vip):adaptor cnblogs vip*/
+img.sidebar-vip-logo {
+    height: 11px;
+    vertical-align: middle;
+    width: 11px;
+    position: absolute;
+    left: 76px;
+    top: 9px;
+}
