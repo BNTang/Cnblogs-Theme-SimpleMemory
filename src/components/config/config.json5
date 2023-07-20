@@ -19,7 +19,7 @@
   sidebar: {
     navList: [],
     customList: {},
-    infoBackground: '',
+    infoBackground: 'https://img2023.cnblogs.com/blog/2105804/202307/2105804-20230720224315494-1601510076.webp',
     titleMsg: '欢迎访问本博客~',
     blogStatus: true,
     submenu: {
