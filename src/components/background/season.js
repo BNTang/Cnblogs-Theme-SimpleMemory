@@ -1,7 +1,7 @@
 /**
- * UPDATES AND DOCS AT: https://github.com/wangyang0210
- * https://www.cnblogs.com/wangyang0210/
- * @author: WangYang, wangyang.0210@foxmail.com
+ * UPDATES AND DOCS AT: https://github.com/BNTang
+ * https://www.cnblogs.com/BNTang/
+ * @author: BNTang, 303158131@qq.com
  * @Date 2022-09-03 01:18
  * ----------------------------------------------
  * @describe: 可以自定义下落物品的背景特效

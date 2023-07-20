@@ -1,7 +1,7 @@
 /**
- * UPDATES AND DOCS AT: https://github.com/wangyang0210
- * https://www.cnblogs.com/wangyang0210/
- * @author: WangYang, wangyang.0210@foxmail.com
+ * UPDATES AND DOCS AT: https://github.com/BNTang
+ * https://www.cnblogs.com/BNTang/
+ * @author: BNTang, 303158131@qq.com
  * @Date 2022-08-25 15:19
  * ----------------------------------------------
  * @describe: banner背景图片处理
@@ -22,9 +22,9 @@ export default function main() {
 
         // 设置图片
         if ( $.__status.pageType === 'home') {
-            topImg = $.__config.banner.home.background.length > 0 ? $.__config.banner.home.background : ['https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_220917053600_wallhaven-6k3oox.webp'];
+            topImg = $.__config.banner.home.background.length > 0 ? $.__config.banner.home.background : ['https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_220917053600_wallhaven-6k3oox.webp'];
         }  else {
-            topImg = $.__config.banner.article.background.length > 0 ? $.__config.banner.article.background : [	'https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_220917053937_wallhaven-j5mz95.webp'];
+            topImg = $.__config.banner.article.background.length > 0 ? $.__config.banner.article.background : [	'https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_220917053937_wallhaven-j5mz95.webp'];
             height = '40vh';
             $('#homeTopTitle').hide();
             $('.scroll-down').hide();

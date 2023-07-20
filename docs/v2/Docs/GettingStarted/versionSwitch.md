@@ -11,13 +11,13 @@
 例如：
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/wangyang0210/cnblogs-theme@v2.2.3/dist/simple-memory.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/BNTang/cnblogs-theme@v2.2.3/dist/simple-memory.js" defer></script>
 ```
 
 变为
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/wangyang0210/cnblogs-theme@v2.2.4/dist/simple-memory.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/BNTang/cnblogs-theme@v2.2.4/dist/simple-memory.js" defer></script>
 ```
 
 版本变更： `v2.2.3` >>> `v2.2.4` 

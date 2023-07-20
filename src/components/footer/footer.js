@@ -1,7 +1,7 @@
 /**
- * UPDATES AND DOCS AT: https://github.com/wangyang0210
- * https://www.cnblogs.com/wangyang0210/
- * @author: WangYang, wangyang.0210@foxmail.com
+ * UPDATES AND DOCS AT: https://github.com/BNTang
+ * https://www.cnblogs.com/BNTang/
+ * @author: BNTang, 303158131@qq.com
  * @Date 2022-08-25 15:22
  * ----------------------------------------------
  * @describe: footer底部信息
@@ -106,7 +106,7 @@ export default function main() {
         switch (parseInt(config.style)) {
             case 1:
                 $('#footer').addClass('footer-t1').find('#footerStyle1')
-                    .show().css('background', 'url(//images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_221114131838_footer.webp)  no-repeat 50%');
+                    .show().css('background', 'url(//images.cnblogs.com/cnblogs_com/BNTang/1943283/o_221114131838_footer.webp)  no-repeat 50%');
                 break;
             case 2:
             default:
@@ -116,9 +116,9 @@ export default function main() {
                     'margin-bottom': '0'
                 });
                 let footerStyle2 = $('#footerStyle2');
-                footerStyle2.show().find('.clouds').css('background', 'url(//images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_221114132857_clouds.webp)  repeat-x');
-                footerStyle2.find('.background').css('background', 'url(//images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_221114134558_background.webp)  repeat-x');
-                footerStyle2.find('.foreground').css('background', 'url(//images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_221114132230_foreground.webp)  repeat-x');
+                footerStyle2.show().find('.clouds').css('background', 'url(//images.cnblogs.com/cnblogs_com/BNTang/1943283/o_221114132857_clouds.webp)  repeat-x');
+                footerStyle2.find('.background').css('background', 'url(//images.cnblogs.com/cnblogs_com/BNTang/1943283/o_221114134558_background.webp)  repeat-x');
+                footerStyle2.find('.foreground').css('background', 'url(//images.cnblogs.com/cnblogs_com/BNTang/1943283/o_221114132230_foreground.webp)  repeat-x');
                 break;
         }
     })();

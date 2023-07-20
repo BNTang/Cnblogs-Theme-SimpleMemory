@@ -1,7 +1,7 @@
 /**
- * UPDATES AND DOCS AT: https://github.com/wangyang0210
- * https://www.cnblogs.com/wangyang0210/
- * @author: WangYang, wangyang.0210@foxmail.com
+ * UPDATES AND DOCS AT: https://github.com/BNTang
+ * https://www.cnblogs.com/BNTang/
+ * @author: BNTang, 303158131@qq.com
  * @Date 2022-08-25 15:19
  * ----------------------------------------------
  * @describe: 网站图标处理

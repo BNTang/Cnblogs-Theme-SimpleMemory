@@ -11,7 +11,7 @@
 # 2022.12.18 - v2.2.6
 - 修复版本更新提示
 - 新增配置`roughNotation`，配置手绘风格的图画
-- 修复导航渲染问题[#82](https://github.com/wangyang0210/cnblogs-theme/issues/82)
+- 修复导航渲染问题[#82](https://github.com/BNTang/cnblogs-theme/issues/82)
 
 # 2022.11.20 - v2.2.5
 - 修复默认输出的github仓库信息
@@ -54,11 +54,11 @@
 * gulp配置gzip压缩js
 * 背景特效`backgroundMouse`改为`particles`
 * 引入`mo.js`,自定义鼠标点击特效
-* 修复鼠标`bubble`特效BUG [#72](https://github.com/wangyang0210/cnblogs-theme/issues/72)
+* 修复鼠标`bubble`特效BUG [#72](https://github.com/BNTang/cnblogs-theme/issues/72)
 * 文档更新
 
 # 2022.09.03 - v2.1.9
-* [#67](https://github.com/wangyang0210/cnblogs-theme/issues/67) 修复文章内容下不展示菜单
+* [#67](https://github.com/BNTang/cnblogs-theme/issues/67) 修复文章内容下不展示菜单
 * 修复移动端展示问题
 * 修复日夜模式切换问题
 * 新增`bubble`鼠标移动效果
@@ -83,8 +83,8 @@
 * 文章字体调整
 * 表格显示优化
 * 脚注显示优化
-* [#56](https://github.com/wangyang0210/cnblogs-theme/issues/56) 显示优化
-* [#54](https://github.com/wangyang0210/cnblogs-theme/issues/54) 图箱优化
+* [#56](https://github.com/BNTang/cnblogs-theme/issues/56) 显示优化
+* [#54](https://github.com/BNTang/cnblogs-theme/issues/54) 图箱优化
 
 
 # 2022.08.12 - v2.1.5

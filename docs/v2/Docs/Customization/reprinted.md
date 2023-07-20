@@ -12,7 +12,7 @@
 
 ## 富文本编辑器
 
-![reprinted_01](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/reprinted_01.png)
+![reprinted_01](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/reprinted_01.png)
 
 ## Markdown
 

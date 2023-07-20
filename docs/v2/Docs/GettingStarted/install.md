@@ -14,7 +14,7 @@
 
 !> 侧边栏设置的时候格式要记得选Html
 
-<img src="https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/install_01.png width="750" />
+<img src="https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/install_01.png width="750" />
 
 本主题当前页面所涉及的配置有：
 
@@ -31,7 +31,7 @@
 
 选项页面：
 
-<img src="https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/install_07.png" width="750" />
+<img src="https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/install_07.png" width="750" />
 
 本主题当前页面所涉及的配置有：
 
@@ -39,11 +39,11 @@
 
 ## 获取需要使用的版本
 
-进入主题仓库：[GitHub](https://github.com/wangyang0210/cnblogs-theme)
+进入主题仓库：[GitHub](https://github.com/BNTang/cnblogs-theme)
 
 切换版本：
 
-![install_05](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/install_05.png)
+![install_05](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/install_05.png)
 
 ## 博客设置
 
@@ -51,19 +51,19 @@
 
 博客皮肤：```SimpleMemory```
 
-![install_02](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/install_02.png)
+![install_02](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/install_02.png)
 
 ### 设置代码高亮
 
 !> 主题已集成代码高亮,建议直接禁用
 
-![install_02](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/install_08.png)
+![install_02](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/install_08.png)
 
 ### 设置页面定制CSS代码
 
 CSS代码位置：```/dist/simple-memory.css``` 拷贝此文件代码至页面定制CSS代码文本框处。
 
-![install_03](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/install_03.png)
+![install_03](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/install_03.png)
 
 ### 禁用模板默认CSS
 
@@ -84,10 +84,10 @@ CSS代码位置：```/dist/simple-memory.css``` 拷贝此文件代码至页面�
       },
     }
 </script>
-<script src="https://cdn.jsdelivr.net/gh/wangyang0210/cnblogs-theme@v2.2.4/dist/simple-memory.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/BNTang/cnblogs-theme@v2.2.4/dist/simple-memory.js" defer></script>
 ```
 
-详细配置参考相关[文档](https://wangyang0210.github.io/cnblogs-theme/v2/#/Docs/Customization/config) 。
+详细配置参考相关[文档](https://BNTang.github.io/cnblogs-theme/v2/#/Docs/Customization/config) 。
 
 ### 开启公告控件
 

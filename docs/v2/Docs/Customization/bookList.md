@@ -1,6 +1,6 @@
 # 书单
 
-样式参考：[https://www.cnblogs.com/wangyang0210/p/16535755.html](https://www.cnblogs.com/wangyang0210/p/16535755.html)
+样式参考：[https://www.cnblogs.com/BNTang/p/16535755.html](https://www.cnblogs.com/BNTang/p/16535755.html)
 
 ## 配置方式
 
@@ -16,17 +16,17 @@
 
 #### 富文本编辑器
 
-![edit_book](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/reprinted_01.png)
+![edit_book](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/reprinted_01.png)
 
 #### Markdown
 
 > 直接拷贝上面的内容到文本框即可。
 
-![markdown_book](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/markdown-book.png)
+![markdown_book](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/markdown-book.png)
 
 ### 配置书单数据
 
-书单的配置，可以参考其他[配置](https://wangyang0210.github.io/cnblogs-theme/v2/#/Docs/Customization/bookList) 的方式。例如：
+书单的配置，可以参考其他[配置](https://BNTang.github.io/cnblogs-theme/v2/#/Docs/Customization/bookList) 的方式。例如：
 
 ```javascript
 window.cnblogsConfig = {

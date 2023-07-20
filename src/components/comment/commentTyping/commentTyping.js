@@ -1,6 +1,6 @@
 /**
- * UPDATES AND DOCS AT: https://github.com/wangyang0210
- * https://www.cnblogs.com/wangyang0210/
+ * UPDATES AND DOCS AT: https://github.com/BNTang
+ * https://www.cnblogs.com/BNTang/
  * @author: https://github.com/disjukr/activate-power-mode
  * @Date 2023-02-19 12:54
  * ----------------------------------------------

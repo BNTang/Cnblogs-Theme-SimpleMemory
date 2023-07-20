@@ -1,7 +1,7 @@
 /**
- * UPDATES AND DOCS AT: https://github.com/wangyang0210
- * https://www.cnblogs.com/wangyang0210/
- * @author: WangYang, wangyang.0210@foxmail.com
+ * UPDATES AND DOCS AT: https://github.com/BNTang
+ * https://www.cnblogs.com/BNTang/
+ * @author: BNTang, 303158131@qq.com
  * @Date 2022-08-25 15:24
  * ----------------------------------------------
  * @describe: 侧边栏处理
@@ -45,7 +45,7 @@ export default function main() {
      * 设置菜单个人信息背景图片
      */
     (() => {
-        let mbg = $.__config.sidebar.infoBackground ? $.__config.sidebar.infoBackground : 'https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_221114135508_sidebar_bg_2.webp';
+        let mbg = $.__config.sidebar.infoBackground ? $.__config.sidebar.infoBackground : 'https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_221114135508_sidebar_bg_2.webp';
         $('.container .menu-wrap').css('background-image', 'url(\''+mbg+'\')');
     })();
 

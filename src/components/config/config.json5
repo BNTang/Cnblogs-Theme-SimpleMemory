@@ -1,7 +1,7 @@
 /**
- * UPDATES AND DOCS AT: https://github.com/wangyang0210
- * https://www.cnblogs.com/wangyang0210/
- * @author: WangYang, wangyang.0210@foxmail.com
+ * UPDATES AND DOCS AT: https://github.com/BNTang
+ * https://www.cnblogs.com/BNTang/
+ * @author: BNTang, 303158131@qq.com
  * @Date 2022-08-25 15:21
  * ----------------------------------------------
  * @describe: 主题默认配置信息
@@ -366,9 +366,9 @@
   // -- 缺省配置 --
   default: {
     version: 'v2.2.8',
-    commentTyping: 'https://files.cnblogs.com/files/wangyang0210/commentTyping.js?t=1676464468',
+    commentTyping: 'https://files.cnblogs.com/files/BNTang/commentTyping.js?t=1676464468',
     iconfont: 'https://at.alicdn.com/t/c/font_3628204_t6n3fw8b1zn.js',
-    avatar: 'https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_221114123823_default_avatar.webp',
+    avatar: 'https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_221114123823_default_avatar.webp',
     mojs: 'https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/mo-js/0.288.2/mo.min.js',
     moment: 'https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-y/moment.js/2.29.1/moment.min.js',
     gsap: 'https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-y/gsap/3.9.1/gsap.min.js',
@@ -382,7 +382,7 @@
     optiscrollcss: 'https://npm.elemecdn.com/optiscroll@3.2.1/dist/optiscroll.css',
     snapsvg: 'https://npm.elemecdn.com/snapsvg-cjs@0.0.6/dist/snap.svg.js',
     toprogress: 'https://npm.elemecdn.com/toprogress@0.1.3/ToProgress.min.js',
-    jqueryrotate: 'https://files.cnblogs.com/files/wangyang0210/jQueryRotateCompressed.js?t=1677086282',
+    jqueryrotate: 'https://files.cnblogs.com/files/BNTang/jQueryRotateCompressed.js?t=1677086282',
     aplayer: 'https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-y/aplayer/1.10.1/APlayer.min.js',
     aplayercss: 'https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-y/aplayer/1.10.1/APlayer.min.css',
     meting: 'https://cdn.staticfile.org/meting/2.0.1/Meting.min.js',

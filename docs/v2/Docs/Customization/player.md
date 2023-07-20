@@ -10,4 +10,4 @@
 
 ?> 榜单ID获取 | 默认配置为热歌榜
 
-![img](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221217233703.png)
+![img](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221217233703.png)

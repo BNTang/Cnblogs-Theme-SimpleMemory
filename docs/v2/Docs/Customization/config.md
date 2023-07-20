@@ -33,8 +33,8 @@
         banner: {
             home: {
                 background: [
-                    "https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_220917053600_wallhaven-6k3oox.webp",
-                    "https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_220917054021_wallhaven-737jo3.webp",
+                    "https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_220917053600_wallhaven-6k3oox.webp",
+                    "https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_220917054021_wallhaven-737jo3.webp",
                 ],
             },
         }
@@ -61,7 +61,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![userName](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221210235557.png)
+![userName](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221210235557.png)
 
 
 ### avatar - 用户头像
@@ -79,7 +79,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![avatar](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211003506.png)
+![avatar](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211003506.png)
 
 ### startDate - 入园时间
 
@@ -95,7 +95,7 @@ window.cnblogsConfig = {
   },
 }
 ```
-![startDate](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211003720.png)
+![startDate](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211003720.png)
 
 ### blogIcon - 网站图标
 
@@ -112,7 +112,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![blogIcon](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211003835.png)
+![blogIcon](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211003835.png)
 
 
 ## sidebar - 侧边栏
@@ -130,16 +130,16 @@ window.cnblogsConfig = {
   sidebar: { // 列表数据 ['导航名称', '链接', 'icon']
       navList: [
           ['随笔', 'https://i.cnblogs.com/posts/edit', 'icon-brush-fill'],
-          ['GitHub', 'https://github.com/wangyang0210', 'icon-github'],
+          ['GitHub', 'https://github.com/BNTang', 'icon-github'],
           ['Cnblogs', 'https://www.cnblogs.com/', 'icon-cnblogs'],
-          ['书单', 'https://www.cnblogs.com/wangyang0210/p/16535755.html', 'icon-book'],
-          ['友链', 'https://www.cnblogs.com/wangyang0210/p/16535757.html', 'icon-lianjie'],
+          ['书单', 'https://www.cnblogs.com/BNTang/p/16535755.html', 'icon-book'],
+          ['友链', 'https://www.cnblogs.com/BNTang/p/16535757.html', 'icon-lianjie'],
       ],
   },
 }
 ```
 
-![菜单导航](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211004228.png)
+![菜单导航](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211004228.png)
 
 
 ### customList - 菜单数据
@@ -156,21 +156,21 @@ window.cnblogsConfig = {
       customList: {
           "自定义列表1": { // 标题
               "data": [ // 列表数据 ['列表', '链接']
-                  ['我的博客1', 'https://www.cnblogs.com/wangyang0210/'],
-                  ['我的博客2', 'https://www.cnblogs.com/wangyang0210/'],
-                  ['我的博客3', 'https://www.cnblogs.com/wangyang0210/'],
-                  ['我的博客4', 'https://www.cnblogs.com/wangyang0210/'],
-                  ['我的博客5', 'https://www.cnblogs.com/wangyang0210/'],
+                  ['我的博客1', 'https://www.cnblogs.com/BNTang/'],
+                  ['我的博客2', 'https://www.cnblogs.com/BNTang/'],
+                  ['我的博客3', 'https://www.cnblogs.com/BNTang/'],
+                  ['我的博客4', 'https://www.cnblogs.com/BNTang/'],
+                  ['我的博客5', 'https://www.cnblogs.com/BNTang/'],
               ],
               "icon": "icon-brush-fill" // 配置图标，参考文档：定制化/字体图标库
           },
           "自定义列表2": { // 标题
               "data": [ // 列表数据 ['列表', '链接']
-                  ['我的博客6', 'https://www.cnblogs.com/wangyang0210/'],
-                  ['我的博客7', 'https://www.cnblogs.com/wangyang0210/'],
-                  ['我的博客8', 'https://www.cnblogs.com/wangyang0210/'],
-                  ['我的博客9', 'https://www.cnblogs.com/wangyang0210/'],
-                  ['我的博客10', 'https://www.cnblogs.com/wangyang0210/'],
+                  ['我的博客6', 'https://www.cnblogs.com/BNTang/'],
+                  ['我的博客7', 'https://www.cnblogs.com/BNTang/'],
+                  ['我的博客8', 'https://www.cnblogs.com/BNTang/'],
+                  ['我的博客9', 'https://www.cnblogs.com/BNTang/'],
+                  ['我的博客10', 'https://www.cnblogs.com/BNTang/'],
               ],
               "icon": "icon-brush-fill" // 配置图标，参考文档：定制化/字体图标库
           },
@@ -179,7 +179,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![自定义菜单数据](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211004821.png)
+![自定义菜单数据](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211004821.png)
 
 ### infoBackground - 个人信息背景
 
@@ -191,12 +191,12 @@ window.cnblogsConfig = {
 ```javascript
 window.cnblogsConfig = {
   sidebar: {
-    infoBackground: 'https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_220918180339_wallhaven-g7og6e_522x929.webp',
+    infoBackground: 'https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_220918180339_wallhaven-g7og6e_522x929.webp',
   },
 }
 ```
 
-![侧边栏背景](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211005034.png)
+![侧边栏背景](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211005034.png)
 
 ### titleMsg - 侧边栏title信息
 
@@ -212,7 +212,7 @@ window.cnblogsConfig = {
   },
 }
 ```
-![侧边栏titleMsg](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211005251.png)
+![侧边栏titleMsg](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211005251.png)
 
 ### blogStatus - 博客状态信息
 
@@ -229,7 +229,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![博客状态](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211005701.png)
+![博客状态](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211005701.png)
 
 ### submenu - 侧边栏是否展开配置
 
@@ -270,7 +270,7 @@ window.cnblogsConfig = {
   },
 }
 ```
-![侧边栏是否展开](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211005951.png)
+![侧边栏是否展开](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211005951.png)
 
 ## banner - banner图
 
@@ -288,7 +288,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![banner文字是否可选](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211010403.png)
+![banner文字是否可选](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211010403.png)
 
 ### home - 主页banner
 
@@ -304,16 +304,16 @@ window.cnblogsConfig = {
     banner: {
         home: {
             background: [
-                "https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_220408081453_wallhaven-6k3oox.jpg",
-                "https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_220408081803_wallhaven-oxzk8m.jpg",
-                "https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_220408081823_wallhaven-vg7lv3.jpg",
+                "https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_220408081453_wallhaven-6k3oox.jpg",
+                "https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_220408081803_wallhaven-oxzk8m.jpg",
+                "https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_220408081823_wallhaven-vg7lv3.jpg",
             ],
         },
     },
 }
 ```
 
-![主页banner图片](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211010709.png)
+![主页banner图片](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211010709.png)
 
 #### title - 主页banner标语
 
@@ -333,7 +333,7 @@ window.cnblogsConfig = {
     },
 }
 ```
-![主页banner标语](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211011336.png)
+![主页banner标语](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211011336.png)
 
 2) 设置数组，随机从数组中获取一条文字显示。
 
@@ -372,7 +372,7 @@ one：每日获取一句话
 */
 ```
 
-![主页banner标语](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211011026.png)
+![主页banner标语](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211011026.png)
 
 ### article - 文章页头图
 
@@ -388,19 +388,19 @@ window.cnblogsConfig = {
     banner: {
         article: {
             background: [
-                "https://images.cnblogs.com/cnblogs_com/wangyang0210/1943283/o_220408081729_wallhaven-6qpzr6.jpg",
+                "https://images.cnblogs.com/cnblogs_com/BNTang/1943283/o_220408081729_wallhaven-6qpzr6.jpg",
             ],
         },
     },
 }
 ```
 
-![文章页banner图片](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211012101.png)
+![文章页banner图片](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211012101.png)
 
 ## loading - 加载loading
 
 * 类型：```Object```
-* 相关文档：[Loading](https://wangyang0210.github.io/cnblogs-theme/v2/#/Docs/Customization/loading)
+* 相关文档：[Loading](https://BNTang.github.io/cnblogs-theme/v2/#/Docs/Customization/loading)
 * 默认值：
 
 ```json
@@ -443,7 +443,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![loading](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/loading.gif)
+![loading](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/loading.gif)
 
 ## fontIconExtend - 字体图标库
 
@@ -482,7 +482,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![顶部进度条](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211013813.png)
+![顶部进度条](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211013813.png)
 
 ## title - 页面标签
 
@@ -501,7 +501,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![失去焦点标签文字](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211014810.png)
+![失去焦点标签文字](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211014810.png)
 
 ### onblurTime - 失去焦点变化延时
 
@@ -535,7 +535,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![获取焦点标签文字](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211014547.png)
+![获取焦点标签文字](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211014547.png)
 
 ### focusTime - 获取焦点变化延时
 
@@ -571,7 +571,7 @@ window.cnblogsConfig = {
   },
 }
 ```
-![footer_01](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/footer_01.png)
+![footer_01](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/footer_01.png)
 
 style: 2
 ```javascript
@@ -581,7 +581,7 @@ window.cnblogsConfig = {
   },
 }
 ```
-![footer_02](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/footer_02.png)
+![footer_02](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/footer_02.png)
 
 ### text - 页脚标语
 
@@ -602,7 +602,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![页脚标语左侧文字](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211015300.png)
+![页脚标语左侧文字](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211015300.png)
 
 #### right - 页脚标语右侧文字
 
@@ -620,7 +620,7 @@ window.cnblogsConfig = {
   },
 }
 ```
-![页脚标语右侧文字](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211015348.png)
+![页脚标语右侧文字](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211015348.png)
 
 #### iconFont - 字体图标
 
@@ -651,7 +651,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![字体图标](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211015443.png)
+![字体图标](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211015443.png)
 
 ### aplayer - 音乐播放器
 
@@ -678,7 +678,7 @@ window.cnblogsConfig = {
 | storageHame    | `metingjs`  | localStorage key that store player setting                   |
 
 * 类型：```Object```
-* 相关文档: [音乐播放器](https://wangyang0210.github.io/cnblogs-theme/v2/#/Docs/Customization/player)
+* 相关文档: [音乐播放器](https://BNTang.github.io/cnblogs-theme/v2/#/Docs/Customization/player)
 * 默认值：
 ```json5
 {
@@ -715,7 +715,7 @@ window.cnblogsConfig = {
         
 }
 ```
-![aplayer](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221217235132.png)
+![aplayer](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221217235132.png)
 
 ## links - 友情链接
 
@@ -730,22 +730,22 @@ window.cnblogsConfig = {
 window.cnblogsConfig = {
   links: {
     footer: [
-        ["申请坑位", 'https://msg.cnblogs.com/send/wangyang0210'],
-        ["申请坑位", 'https://msg.cnblogs.com/send/wangyang0210'],
-        ["申请坑位", 'https://msg.cnblogs.com/send/wangyang0210'],
-        ["申请坑位", 'https://msg.cnblogs.com/send/wangyang0210'],
-        ["申请坑位", 'https://msg.cnblogs.com/send/wangyang0210'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/BNTang'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/BNTang'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/BNTang'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/BNTang'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/BNTang'],
     ],
   },
 }
 ```
 
-![页脚友链](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211015621.png)
+![页脚友链](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211015621.png)
 
 ### page - 友链页
 
 * 类型：```Array```
-* 相关文档：[友链](https://wangyang0210.github.io/cnblogs-theme/v2/#/Docs/Customization/links)
+* 相关文档：[友链](https://BNTang.github.io/cnblogs-theme/v2/#/Docs/Customization/links)
 * 默认值：```[]```
 
 友链页。需要在页面源码中添加 `<input id="linkListFlg" type="hidden" />`
@@ -763,7 +763,7 @@ window.cnblogsConfig = {
                     name: '一二三四五六七八九十一二', // 昵称
                     introduction: 'IT技术类博客', // 简介
                     avatar: 'https://pic3.zhimg.com/v2-f4cacab46386a7fb655c8405d7f9bedf_720w.webp?source=d16d100b', // 头像
-                    url: 'https://cnblogs.com/wangyang0210' // 友链地址
+                    url: 'https://cnblogs.com/BNTang' // 友链地址
                 },
                 {
                     name: '王洋', // 昵称
@@ -778,7 +778,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![友链页](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211015830.png)
+![友链页](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211015830.png)
 
 ## rtMenu - 右下角菜单
 
@@ -797,7 +797,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![二维码](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211020100.png)
+![二维码](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211020100.png)
 
 ### reward - 赞赏
 
@@ -824,7 +824,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![赞赏](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211020202.png)
+![赞赏](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211020202.png)
 
 ### downScrollDom - 跳至底部位置定义
 
@@ -841,7 +841,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![跳至底部位置定义](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211020400.png)
+![跳至底部位置定义](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211020400.png)
 
 ## switchDayNight - 日/夜间模式
 
@@ -874,7 +874,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![日/夜间模式](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211020444.png)
+![日/夜间模式](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211020444.png)
 
 ## animate - 动效
 
@@ -905,7 +905,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![主页name动效](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/name.gif)
+![主页name动效](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/name.gif)
 
 
 ### homeBanner - 主页banner动效
@@ -940,7 +940,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![主页banner动效](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/banner-animate.gif)
+![主页banner动效](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/banner-animate.gif)
 
 ### articleTitle - 文章页标题动效
 
@@ -967,7 +967,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![文章页标题动效](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/banner-animate-title.gif)
+![文章页标题动效](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/banner-animate-title.gif)
 
 ### articleBanner - 文章页banner动效
 
@@ -992,7 +992,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![文章页banner动效](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/banner-animate-articleBanner.gif)
+![文章页banner动效](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/banner-animate-articleBanner.gif)
 
 ### background - 背景动效
 
@@ -1043,7 +1043,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![彩色丝带](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/animate-background.gif)
+![彩色丝带](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/animate-background.gif)
 
 #### particles - 背景动效
 
@@ -1072,7 +1072,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![背景动效](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/animate-background-2.gif)
+![背景动效](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/animate-background-2.gif)
 
 #### season - 四季背景特效
 
@@ -1110,7 +1110,7 @@ window.cnblogsConfig = {
 ```
 
 ![四季背景特效
-](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/animate-background-3.gif)
+](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/animate-background-3.gif)
 
 
 ### bannerImages - banner背景图自动切换动效
@@ -1144,7 +1144,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![banner背景图自动切换动效](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/animate-bg.gif)
+![banner背景图自动切换动效](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/animate-bg.gif)
 
 
 ### mouse - 鼠标动效
@@ -1185,7 +1185,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![mouse效果](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/animate-click.gif)
+![mouse效果](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/animate-click.gif)
 
 #### bubble - 鼠标移动粒子效果
 
@@ -1216,7 +1216,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![bubble](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/bubble.gif)
+![bubble](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/bubble.gif)
 
 
 #### mo - 依赖于mo.js实现的鼠标点击效果
@@ -1251,7 +1251,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![mojs实现的鼠标点击效果](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/animate-click-1.gif)
+![mojs实现的鼠标点击效果](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/animate-click-1.gif)
 
 #### click - 粒子炸开效果
 
@@ -1273,7 +1273,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![粒子炸开效果](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/animate-click-2.gif)
+![粒子炸开效果](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/animate-click-2.gif)
 
 ### avatar - 头像旋转特效
 
@@ -1291,7 +1291,7 @@ window.cnblogsConfig = {
   }
 }
 ```
-![头像旋转特效](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/animate-avatar.gif)
+![头像旋转特效](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/animate-avatar.gif)
 
 ## code - 代码
 
@@ -1348,7 +1348,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![Highlighting](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211021527.png)
+![Highlighting](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211021527.png)
 
 #### maxHeight - 代码框高度限制
 
@@ -1384,7 +1384,7 @@ window.cnblogsConfig = {
   },
 }
 ```
-![代码行号渲染](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211021712.png)
+![代码行号渲染](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211021712.png)
 
 #### macStyle - mac风格代码框
 
@@ -1403,7 +1403,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![mac风格代码框](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211021822.png)
+![mac风格代码框](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211021822.png)
 
 ## articleDirectory - 文章目录
 
@@ -1424,7 +1424,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![文章目录定位](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211171815.png)
+![文章目录定位](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211171815.png)
 
 ### minBodyWeight - 文章目录隐藏宽度
 
@@ -1477,7 +1477,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![链接分享小尾巴](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211172117.png)
+![链接分享小尾巴](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211172117.png)
 
 ### iconfont - 文章标题前的iconfont
 ?> 版本 >= v2.1.4
@@ -1520,7 +1520,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![iconfont](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211172359.png)
+![iconfont](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211172359.png)
 
 ### roughNotation - 手绘风格的符号
 * 类型：```Object```
@@ -1556,7 +1556,7 @@ window.cnblogsConfig = {
     },
 }
 ```
-![roughnotation](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20230102230137.png)
+![roughnotation](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20230102230137.png)
 
 ### commentTyping - 评论增加打字特效
 * 类型：```Object```
@@ -1578,7 +1578,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![commentTyping](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/commentTyping.gif)
+![commentTyping](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/commentTyping.gif)
 
 ### diggit - 点赞特效
 
@@ -1592,7 +1592,7 @@ window.cnblogsConfig = {
     },
 }
 ```
-![diggit](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/diggit.gif)
+![diggit](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/diggit.gif)
 
 ## articleSuffix - 文章后缀
 
@@ -1613,7 +1613,7 @@ window.cnblogsConfig = {
 }
 ```
 
-![左侧图片](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211172458.png)
+![左侧图片](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211172458.png)
 
 ### aboutHtml - 关于博主
 
@@ -1700,19 +1700,19 @@ window.cnblogsConfig = {
 ```javascript
 window.cnblogsConfig = {
     consoleList: [
-         ['wangyang CNBlogs', 'https://www.cnblogs.com/wangyang0210'],
-         ['wangyang GitHub', 'https://github.com/wangyang0210'],
-         ['wangyang Email', 'wangyang.0210@foxmail.com'],
+         ['wangyang CNBlogs', 'https://www.cnblogs.com/BNTang'],
+         ['wangyang GitHub', 'https://github.com/BNTang'],
+         ['wangyang Email', '303158131@qq.com'],
     ],
 }
 ```
 
-![控制台输出](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211021055.png)
+![控制台输出](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211021055.png)
 
 ## umami - 网站统计
 
 * 类型：```Object```
-* 相关文档：[网站统计](https://wangyang0210.github.io/cnblogs-theme/v2/#/Docs/Customization/statistical)
+* 相关文档：[网站统计](https://BNTang.github.io/cnblogs-theme/v2/#/Docs/Customization/statistical)
 * 默认值：```{}```
 
 
@@ -1740,4 +1740,4 @@ window.cnblogsConfig = {
 }
 ```
 
-![纪念日](https://cdn.jsdelivr.net/gh/wangyang0210/pic/imgs/project/cnblogs/20221211021314.png)
+![纪念日](https://cdn.jsdelivr.net/gh/BNTang/pic/imgs/project/cnblogs/20221211021314.png)
