@@ -113,13 +113,16 @@ export default function main() {
      * 设置摘要文章
      */
     (() => {
-        let desc = $('.c_b_p_desc');
-        console.log(desc);
-        desc.html(`
+        $('.c_b_p_desc').each(function(index, element) {
+            // Inside the loop, "this" refers to the current element in the iteration
+            // You can use "this" or wrap "element" with the jQuery selector to manipulate each element separately
+            $(this).html(`
                 <div class="custom-image-container">
                   <img src="https://bing.img.run/rand_uhd.php" alt="随机获取Bing历史壁纸UHD超高清原图"/>
                 </div>
               `);
+        });
+        // let desc = $('.c_b_p_desc');
         // $.each(desc, (i) => {
             // let obj = $(desc[i]), img = obj.find('img.desc_img');
             // let vInnerHTML = obj[0].innerHTML;
