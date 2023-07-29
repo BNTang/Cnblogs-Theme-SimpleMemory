@@ -6,16 +6,16 @@
 
 </div>
 
-[![GitHub release](https://img.shields.io/github/v/release/BNTang/Cnblogs-Theme.svg)](https://github.com/BNTang/Cnblogs-Theme/releases)
-[![GitHub stars](https://img.shields.io/github/stars/BNTang/Cnblogs-Theme.svg)](https://github.com/BNTang/Cnblogs-Theme/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/BNTang/Cnblogs-Theme.svg)](https://github.com/BNTang/Cnblogs-Theme/network)
-[![GitHub issues](https://img.shields.io/github/issues/BNTang/Cnblogs-Theme.svg)](https://github.com/BNTang/Cnblogs-Theme/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/BNTang/Cnblogs-Theme.svg)](https://github.com/BNTang/Cnblogs-Theme/graphs/contributors)
-[![](https://data.jsdelivr.com/v1/package/gh/BNTang/Cnblogs-Theme/badge?style=rounded)](https://www.jsdelivr.com/package/gh/BNTang/Cnblogs-Theme)
+[![GitHub release](https://img.shields.io/github/v/release/BNTang/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/BNTang/Cnblogs-Theme-SimpleMemory/releases)
+[![GitHub stars](https://img.shields.io/github/stars/BNTang/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/BNTang/Cnblogs-Theme-SimpleMemory/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/BNTang/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/BNTang/Cnblogs-Theme-SimpleMemory/network)
+[![GitHub issues](https://img.shields.io/github/issues/BNTang/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/BNTang/Cnblogs-Theme-SimpleMemory/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/BNTang/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/BNTang/Cnblogs-Theme-SimpleMemory/graphs/contributors)
+[![](https://data.jsdelivr.com/v1/package/gh/BNTang/Cnblogs-Theme-SimpleMemory/badge?style=rounded)](https://www.jsdelivr.com/package/gh/BNTang/Cnblogs-Theme-SimpleMemory)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/BNTang/Cnblogs-Theme.svg)](https://github.com/BNTang/Cnblogs-Theme/commits/master)
-[![GitHub license](https://img.shields.io/github/license/esofar/cnblogs-theme-silence.svg)](https://github.com/BNTang/Cnblogs-Theme/blob/v2/LICENSE)
-[![compatibility](https://camo.githubusercontent.com/31ac3f0ce805dc34a29b615131caa26cbf4dc127/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62726f777365722d2532306368726f6d6525323025374325323066697265666f782532302537432532306f706572612532302537432532307361666172692532302537432532306965253230253345253344253230392d6c69676874677265792e737667)](https://github.com/BNTang/Cnblogs-Theme)
+[![GitHub last commit](https://img.shields.io/github/last-commit/BNTang/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/BNTang/Cnblogs-Theme-SimpleMemory/commits/master)
+[![GitHub license](https://img.shields.io/github/license/esofar/cnblogs-theme-silence.svg)](https://github.com/BNTang/Cnblogs-Theme-SimpleMemory/blob/v2/LICENSE)
+[![compatibility](https://camo.githubusercontent.com/31ac3f0ce805dc34a29b615131caa26cbf4dc127/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f62726f777365722d2532306368726f6d6525323025374325323066697265666f782532302537432532306f706572612532302537432532307361666172692532302537432532306965253230253345253344253230392d6c69676874677265792e737667)](https://github.com/BNTang/Cnblogs-Theme-SimpleMemory)
 
 # Silence
 
@@ -27,7 +27,7 @@
 
 # Docs
 
-[永久地址](https://BNTang.github.io/Cnblogs-Theme/v2/#/) [备用地址](https://docs.wangyangyang.vip/docs/v2/#/)
+[永久地址](https://BNTang.github.io/Cnblogs-Theme/v2/#/)
 
 > - 我们建议您使用最新版本，新版本的发布通常代表着功能改进和错误修复。
 > - 文档的源文件位于`/docs`目录中，任何对文档有更好建议或意见的人都可以通过`Pull Request`或`Issues`向我提交。
