@@ -114,13 +114,13 @@ export default function main() {
      */
     (() => {
         let desc = $('.c_b_p_desc');
-        $.each(desc, (i) => {
-            desc[i].html(`
+        console.log(desc);
+        desc.html(`
                 <div class="custom-image-container">
                   <img src="https://bing.img.run/rand_uhd.php" alt="随机获取Bing历史壁纸UHD超高清原图"/>
                 </div>
               `);
-
+        // $.each(desc, (i) => {
             // let obj = $(desc[i]), img = obj.find('img.desc_img');
             // let vInnerHTML = obj[0].innerHTML;
             // obj[0].innerHTML = vInnerHTML.replace("摘要：            ", "");
@@ -132,7 +132,7 @@ export default function main() {
             //     let html = '<div class="c_b_p_desc_img"><div style="background: url(\'' + src + '\') center center / contain no-repeat;"></div></div>';
             //     obj.after(html);
             // }
-        });
+        // });
     })();
 
     /**
