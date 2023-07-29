@@ -23,15 +23,15 @@
 }
 
 #particles .particles-layer--1 {
-    background-image: url('https://files.cnblogs.com/files/BNTang/bg-pattern-1.svg?t=1690592025')
+    background-image: url('https://cdn.jsdelivr.net/gh/BNTang/Cnblogs-Theme-SimpleMemory@master/src/images/svg/bg-pattern-1.svg')
 }
 
 #particles .particles-layer--2 {
-    background-image: url('https://files.cnblogs.com/files/BNTang/bg-pattern-2.svg?t=1690592028')
+    background-image: url('https://cdn.jsdelivr.net/gh/BNTang/Cnblogs-Theme-SimpleMemory@master/src/images/svg/bg-pattern-2.svg')
 }
 
 #particles .particles-layer--3 {
-    background-image: url('https://files.cnblogs.com/files/BNTang/bg-pattern-3.svg?t=1690592032')
+    background-image: url('https://cdn.jsdelivr.net/gh/BNTang/Cnblogs-Theme-SimpleMemory@master/src/images/svg/bg-pattern-3.svg')
 }
 
 @media (max-width: 767px) {
