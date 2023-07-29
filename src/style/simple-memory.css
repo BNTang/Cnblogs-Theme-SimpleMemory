@@ -4792,3 +4792,16 @@ img.sidebar-vip-logo {
 img.post-footer-vip-logo {
     height: 10px !important;
 }
+
+/*首页随笔文章样式*/
+.custom-image-container {
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
+
+.custom-image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* This will maintain the aspect ratio and cover the entire container */
+}
