@@ -116,9 +116,12 @@ export default function main() {
         $('.c_b_p_desc').each(function(index, element) {
             // Inside the loop, "this" refers to the current element in the iteration
             // You can use "this" or wrap "element" with the jQuery selector to manipulate each element separately
+
+            const randomNumber = Math.floor(Math.random() * 1000000000); // Change the range as needed
+
             $(this).html(`
                 <div class="custom-image-container">
-                  <img src="https://bing.img.run/rand_uhd.php" alt="随机获取Bing历史壁纸UHD超高清原图"/>
+                    <img src="https://bing.img.run/rand_uhd.php?t=${randomNumber}" alt="随机获取Bing历史壁纸UHD超高清原图"/>
                 </div>
               `);
         });
