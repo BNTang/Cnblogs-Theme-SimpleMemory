@@ -4786,5 +4786,9 @@ img.sidebar-vip-logo {
     width: 11px;
     position: absolute;
     left: 80px;
-    top: 9px;
+    top: 7px;
+}
+
+img.post-footer-vip-logo {
+    height: 10px !important;
 }

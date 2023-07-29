@@ -281,7 +281,7 @@ span.cnblogs_code, #home code:not([class]) {
 }
 
 #articleDirectory ul li a:hover, #articleDirectory ul li a.active {
-    background: #ff5f5f !important;
+    /*background: #ff5f5f !important;*/
     color: #ff5f5f !important;
 }
 
