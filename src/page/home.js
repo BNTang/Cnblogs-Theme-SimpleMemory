@@ -114,24 +114,25 @@ export default function main() {
      */
     (() => {
         let desc = $('.c_b_p_desc');
-        desc.html(`
-            <div class="custom-image-container">
-              <img src="https://bing.img.run/rand_uhd.php" alt="随机获取Bing历史壁纸UHD超高清原图"/>
-            </div>
-          `);
-        // $.each(desc, (i) => {
-        //     let obj = $(desc[i]), img = obj.find('img.desc_img');
-        //     let vInnerHTML = obj[0].innerHTML;
-        //     obj[0].innerHTML = vInnerHTML.replace("摘要：            ", "");
-        //     if (img.length > 0) {
-        //         let src = img.attr('src');
-        //         img.hide();
-        //         obj.css('width', '60%');
-        //         obj.parent('div').css('min-height', '150px');
-        //         let html = '<div class="c_b_p_desc_img"><div style="background: url(\'' + src + '\') center center / contain no-repeat;"></div></div>';
-        //         obj.after(html);
-        //     }
-        // });
+        $.each(desc, (i) => {
+            desc[i].html(`
+                <div class="custom-image-container">
+                  <img src="https://bing.img.run/rand_uhd.php" alt="随机获取Bing历史壁纸UHD超高清原图"/>
+                </div>
+              `);
+
+            // let obj = $(desc[i]), img = obj.find('img.desc_img');
+            // let vInnerHTML = obj[0].innerHTML;
+            // obj[0].innerHTML = vInnerHTML.replace("摘要：            ", "");
+            // if (img.length > 0) {
+            //     let src = img.attr('src');
+            //     img.hide();
+            //     obj.css('width', '60%');
+            //     obj.parent('div').css('min-height', '150px');
+            //     let html = '<div class="c_b_p_desc_img"><div style="background: url(\'' + src + '\') center center / contain no-repeat;"></div></div>';
+            //     obj.after(html);
+            // }
+        });
     })();
 
     /**
