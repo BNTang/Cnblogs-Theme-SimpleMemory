@@ -4822,3 +4822,10 @@ img.post-footer-vip-logo {
 .author_profile_info {
     display: none;
 }
+
+/*
+右侧菜单栏
+*/
+#rightDashang i {
+    font-size: 32px !important;
+}
