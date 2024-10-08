@@ -3892,6 +3892,7 @@ table#blogCalendar > tbody > tr > td > a {
         transform: scale(0.9);
     }
 }
+
 @-webkit-keyframes refreshAnimation {
     0% {
         transform: scale(0.9);
@@ -3903,6 +3904,7 @@ table#blogCalendar > tbody > tr > td > a {
         transform: scale(0.9);
     }
 }
+
 @-o-keyframes refreshAnimation {
     0% {
         transform: scale(0.9);
@@ -3914,6 +3916,7 @@ table#blogCalendar > tbody > tr > td > a {
         transform: scale(0.9);
     }
 }
+
 @keyframes refreshAnimation {
     0% {
         transform: scale(0.9);
@@ -3925,6 +3928,7 @@ table#blogCalendar > tbody > tr > td > a {
         transform: scale(0.9);
     }
 }
+
 @-moz-keyframes fadeInUp {
     from {
         opacity: 0;
@@ -3935,6 +3939,7 @@ table#blogCalendar > tbody > tr > td > a {
         transform: translate3d(0, 0, 0);
     }
 }
+
 @-webkit-keyframes fadeInUp {
     from {
         opacity: 0;
@@ -3945,6 +3950,7 @@ table#blogCalendar > tbody > tr > td > a {
         transform: translate3d(0, 0, 0);
     }
 }
+
 @-o-keyframes fadeInUp {
     from {
         opacity: 0;
@@ -3955,6 +3961,7 @@ table#blogCalendar > tbody > tr > td > a {
         transform: translate3d(0, 0, 0);
     }
 }
+
 @keyframes fadeInUp {
     from {
         opacity: 0;
@@ -4063,6 +4070,7 @@ table#blogCalendar > tbody > tr > td > a {
     body {
         position: relative;
     }
+
     #cnblogs_post_body > p {
         padding: 0 10px;
         font-size: 1em;
@@ -4776,7 +4784,8 @@ a:hover {
     text-overflow: ellipsis;
     width: 200px;
 }
-.nav-link .articleDirectory-overflow .active{
+
+.nav-link .articleDirectory-overflow .active {
     color: #ff5f5f !important;
 }
 
@@ -4805,4 +4814,18 @@ img.post-footer-vip-logo {
     width: 100%;
     height: 100%;
     object-fit: cover; /* This will maintain the aspect ratio and cover the entire container */
+}
+
+/*
+文章页面底部的用户信息
+*/
+.author_profile_info {
+    display: none;
+}
+
+/*
+右侧菜单栏
+*/
+#rightDashang i {
+    font-size: 32px !important;
 }

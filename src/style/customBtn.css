@@ -658,7 +658,7 @@
 .custom-btn.btn-12 {
     position: relative;
     right: 24px;
-    bottom: 25px;
+    bottom: 14px;
     border: none;
     box-shadow: none;
     width: 110px;
@@ -736,6 +736,7 @@
     background-image: linear-gradient(315deg, #89d8d3 0%, #03c8a8 74%);
     border: none;
     z-index: 1;
+    bottom: 1px;
 }
 
 .custom-btn.btn-13:after {
